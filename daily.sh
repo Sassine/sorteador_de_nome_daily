@@ -2,7 +2,7 @@
 
 # ----------------------------------------------------------------------
 # Autor: Sassine Andrade El-Asmar
-# github.com/sassine
+# https://github.com/Sassine/sorteador_de_nome_daily
 # ----------------------------------------------------------------------
 
 ARQ_PARTICIPANTES=participantes.txt
