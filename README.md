@@ -1,4 +1,4 @@
-# Sorteado de nomes para Daily
+# Sorteador de nomes para Daily
 *Este é um projeto simples feito em ShellScript com objetivo de facilitar a ordem de quem fala nas Dailys.* 
 
 ![Examplo do projeto em execução ](https://i.imgur.com/i4gTCpe.jpeg)
