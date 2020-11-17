@@ -17,5 +17,9 @@
  encerra o script.
 
 ## Arquivos 
-**participantes.txt :** deve conter o nome dos participantes da daily linha a linha
-**processados.txt :** contem os nomes já processados afim de exibir o ultimo processado e quando encerrar o sorteio poder restaurar os nomes para o arquivo **participantes.txt***
+
+**participantes.txt :** 
+deve conter o nome dos participantes da daily linha a linha.
+
+**processados.txt :** 
+contem os nomes já processados afim de exibir o ultimo processado e quando encerrar o sorteio poder restaurar os nomes para o arquivo **participantes.txt***
